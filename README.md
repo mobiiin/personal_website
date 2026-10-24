@@ -4,10 +4,11 @@ A responsive, single-page research portfolio for computer vision, robotics, and 
 
 ## Publish with GitHub Pages
 
-1. Create a public repository named `mobiiin.github.io` under the `mobiiin` GitHub account.
-2. Add the files in this folder to the repository's default branch.
-3. In **Settings → Pages**, choose **GitHub Actions** as the build and deployment source.
-4. The included workflow deploys the site. It will be available at `https://mobiiin.github.io/` after the first successful run.
+This site is in [`mobiiin/personal_website`](https://github.com/mobiiin/personal_website).
+
+1. In the repository, open **Settings → Pages** and choose **GitHub Actions** as the build and deployment source.
+2. Open **Actions** and rerun **Deploy portfolio to GitHub Pages**. The initial run happened before Pages was enabled and stopped during setup.
+3. After a successful run, the site will be available at `https://mobiiin.github.io/personal_website/`.
 
 The site is plain HTML, CSS, and JavaScript. No build step or package installation is required.
 
